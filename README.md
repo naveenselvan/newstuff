@@ -14,6 +14,7 @@ on the usual book resellers
 [Penguin](https://www.penguinrandomhouse.com/books/676692/crypto-dictionary-by-jean-philippe-aumasson/),
 etc.).
 
+Definitions already in the book are listed in [BOOKLIST](BOOKLIST.md).
 
 Please feel free to comment on these definitions and suggest new ones on
 the [Issues](https://github.com/cryptodictionary/newstuff/issues) page.
