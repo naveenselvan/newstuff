@@ -23,7 +23,7 @@ the [Issues](https://github.com/cryptodictionary/newstuff/issues) page.
 ## Avalanche
 
 
-## BLS (Barreto--Lynn-Scott) curves
+## BLS (Barreto--Lynn--Scott) curves
 
 
 ## Confusion
